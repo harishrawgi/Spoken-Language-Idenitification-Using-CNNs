@@ -1,0 +1,15 @@
+,Deutche,Dutch,English,French,Portugese,,
+Deutche,341,4,6,8,9,,368
+Dutch,9,354,8,11,5,,387
+English,3,2,293,10,7,,315
+French,11,8,6,315,13,,353
+Portugese,14,5,9,4,337,,369
+,,,,,,,1792
+,,,,,,,
+Accuracy,91.51,,,,,,
+,,,,,,,
+,Deutche,Dutch,English,French,Portugese,,
+Precision,0.902,0.949,0.909,0.905,0.908,,
+Recall,0.927,0.915,0.93,0.892,0.913,,
+Specificity,0.974,0.986,0.98,0.977,0.976,,
+F1-score,0.914,0.932,0.919,0.898,0.910,,
